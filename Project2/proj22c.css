@@ -3,7 +3,7 @@ body{
     padding: 0;
     background-color: rgb(246, 246, 246);
 }
-.container {
+.container { 
     width: 60%;
     max-width: 700px;
     margin: 40px auto; 
