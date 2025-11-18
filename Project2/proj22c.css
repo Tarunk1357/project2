@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(246, 246, 246);
+}
+.container {
+    width: 60%;
+    max-width: 700px;
+    margin: 40px auto; 
+    background: #ffffff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
+}
+.easy{
+    background-color: rgb(243, 137, 56);
+    border-radius: 13px;
+    color: #ffffff;
+    position: relative;
+    right: auto;
+}
+span{
+    gap: 20px;
+    padding: 8px;
+    font-size: small;  
+}
+ul li{
+    list-style-type: "✓";
+    padding: 8px;
+    font-size: small; 
+}
+
+ol li{
+    padding: 8px;
+    font-size: small;
+}
+ol li span{
+    background-color: rgb(255, 189, 181);
+    padding: 2px 4px;
+}
+aside{
+    font-size: small;
+    background-color: rgb(215, 233, 249);
+
+
+}
